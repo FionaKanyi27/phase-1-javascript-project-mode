@@ -1,0 +1,40 @@
+{
+  "activities": [
+    {
+      "id": 1,
+      "name": "Team Cooking Class",
+      "pricePerPerson": 75,
+      "image": "Images/1603.i107.033.S.m007.c11.cooking_class.jpg",
+      "description": "Work together to create a delicious meal in our team-building cooking class."
+    },
+    {
+      "id": 2,
+      "name": "Escape Room Challenge",
+      "pricePerPerson": 90,
+      "image": "Images/istockphoto-1130957166-612x612.jpg",
+      "description": "Put your problem-solving skills to the test in our immersive escape room experience."
+    },
+    {
+      "id": 3,
+      "name": "High Ropes Course",
+      "pricePerPerson": 120,
+      "image": "Images/download.jpeg",
+      "description": "Challenge your team with a high ropes adventure that builds trust and teamwork."
+    },
+    {
+      "id": 4,
+      "name": "Paintball Tournament",
+      "pricePerPerson": 110,
+      "image": "Images/download (1).jpeg",
+      "description": "Compete in a paintball tournament for an adrenaline-packed experience."
+    },
+    {
+      "id": 5,
+      "name": "Beach Cleanup and Picnic",
+      "pricePerPerson": 50,
+      "image": "Images/maxresdefault.jpg",
+      "description": "Give back to the environment while building team morale with a beach cleanup."
+      
+    }
+  ]
+}
